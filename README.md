@@ -25,9 +25,6 @@
 - **DevOps:** Docker, ambientes Linux, Nginx, monitoração e logging.
 - **Integrações:** Whatsapp, Meta Ads, Telegram, Webhooks, Google, etc...
 
----
-
-### ⚙️ Badges úteis
 [![Laravel](https://img.shields.io/badge/Laravel-10-red)](#)
 [![Next.js](https://img.shields.io/badge/Next.js-14-black)](#)
 [![Node.js](https://img.shields.io/badge/Node.js-LTS-green)](#)
